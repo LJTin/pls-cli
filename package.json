@@ -1,0 +1,40 @@
+{
+  "_from": "pls-cli",
+  "_id": "pls-cli@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-OGcLiiUZNPpcJLH0JhQgFbj/6RWjahb6ZNqCoEUKlbyjnpbisG/lqO8VPKauOdmkus6P2u21lcAEPsATzSRcmg==",
+  "_location": "/pls-cli",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "pls-cli",
+    "name": "pls-cli",
+    "escapedName": "pls-cli",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/pls-cli/-/pls-cli-1.0.4.tgz",
+  "_shasum": "f619f5b656560ffb4e676c10444843385c67ede2",
+  "_spec": "pls-cli",
+  "_where": "/usr/local/lib/node_modules",
+  "bin": {
+    "pls": "src/pls.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "commander": "^5.1.0",
+    "inquirer": "^7.1.0",
+    "ora": "^4.0.4"
+  },
+  "deprecated": false,
+  "description": "project init",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "pls-cli",
+  "version": "1.0.4"
+}
