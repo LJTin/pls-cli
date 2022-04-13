@@ -1,6 +1,6 @@
 {
   "name": "pls-cli",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "project init",
   "bin": {
     "pls": "src/pls.js"
